@@ -45,13 +45,12 @@
 ---
 [![Profile Views](https://komarev.com/ghpvc/?username=Moamenaymannn&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Moamenaymannn)
 
-
 ---
 
->  “Success is where preparation and opportunity meet.”
+<h2 align="center">✨ “Success is where preparation and opportunity meet.” ✨</h2>
 
 ---
 
 ⭐️ From [Moamen Ayman](https://github.com/Moamenaymannn )
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
