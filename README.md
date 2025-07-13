@@ -32,9 +32,10 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Masar - AI Career Development Platform]([https://github.com/Moamenaymannn/Glamour-App](https://github.com/esraakhalifa/masar)) |Developed a comprehensive career management system with AI-powered skill assessments. |Next.js + TypeScript + Prisma + AI APIs + PostgreSQL |
-| [Online Bookstore E-Commerce Web App]([https://github.com/Moamenaymannn/Cafeteria-Backend](https://github.com/AbdelaziizGohaar/Online-Bookstore)) | JWT-based authentication and RBAC for Admin/User roles. | MERN Stack|
-| [Hotel Management System]([https://github.com/Moamenaymannn/Learning-Tracker](https://github.com/o-some-sad/laravel-hotel-managment-system)) | Multilingual support and responsive UI using Shadcn/UI | Laravel + Vue + Tailwind |
+| [Masar - AI Career Development Platform](https://github.com/esraakhalifa/masar) | Developed a comprehensive career management system with AI-powered skill assessments. | Next.js + TypeScript + Prisma + AI APIs + PostgreSQL |
+| [Online Bookstore E-Commerce Web App](https://github.com/AbdelaziizGohaar/Online-Bookstore) | JWT-based authentication and RBAC for Admin/User roles. | MERN Stack |
+| [Hotel Management System](https://github.com/o-some-sad/laravel-hotel-managment-system) | Multilingual support and responsive UI using Shadcn/UI | Laravel + Vue + Tailwind |
+
 
 
 
