@@ -28,11 +28,22 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Moamenaymannn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## 🚀 Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Masar - AI Career Development Platform]([https://github.com/Moamenaymannn/Glamour-App](https://github.com/esraakhalifa/masar)) |Developed a comprehensive career management system with AI-powered skill assessments. |Next.js + TypeScript + Prisma + AI APIs + PostgreSQL |
+| [Online Bookstore E-Commerce Web App]([https://github.com/Moamenaymannn/Cafeteria-Backend](https://github.com/AbdelaziizGohaar/Online-Bookstore)) | JWT-based authentication and RBAC for Admin/User roles. | MERN Stack|
+| [Hotel Management System]([https://github.com/Moamenaymannn/Learning-Tracker](https://github.com/o-some-sad/laravel-hotel-managment-system)) | Multilingual support and responsive UI using Shadcn/UI | Laravel + Vue + Tailwind |
+
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Moamenaymannn&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Moamenaymannn&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=Moamenaymannn&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Moamenaymannn)
+
 
 ---
 
